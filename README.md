@@ -22,8 +22,6 @@ import java.util.*;
         System.out.println(d1);
       }
     }  
-        
-        
           
           
           
